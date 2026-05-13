@@ -101,7 +101,7 @@ function Hero() {
               ></i>
               <div className="hero-download-text">Download APK</div>
             </a>
-            <a href="#changelog" className="hero-changelog-link">
+            <a href="/changelog" className="hero-changelog-link">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 24 24"

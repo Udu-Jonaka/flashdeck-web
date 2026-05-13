@@ -28,7 +28,7 @@ function Footer() {
               <a href="#screenshots">Screenshots</a>
             </li>
             <li>
-              <a href="#changelog">Changelog</a>
+              <a href="/changelog">Changelog</a>
             </li>
           </ul>
         </div>

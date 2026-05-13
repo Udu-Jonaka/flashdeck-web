@@ -21,6 +21,7 @@ export default function RootLayout({ children }) {
         <link rel="stylesheet" href="/css/features.css" />
         <link rel="stylesheet" href="/css/cta.css" />
         <link rel="stylesheet" href="/css/footer.css" />
+        <link rel="stylesheet" href="/css/changelog.css" />
       </head>
       <body suppressHydrationWarning>
         <Navbar />

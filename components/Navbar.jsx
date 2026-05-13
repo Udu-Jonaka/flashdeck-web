@@ -46,7 +46,7 @@ function Navbar() {
           <Link href="#screenshots" onClick={() => setIsOpen(false)}>
             Screenshots
           </Link>
-          <Link href="#changelog" onClick={() => setIsOpen(false)}>
+          <Link href="/changelog" onClick={() => setIsOpen(false)}>
             Changelog
           </Link>
         </div>
