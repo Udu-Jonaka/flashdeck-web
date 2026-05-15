@@ -43,7 +43,7 @@ function Navbar() {
 
         {/* Nav Links */}
         <div className={`nav-links ${isOpen ? "active" : ""}`} id="nav-links">
-          <Link href="#screenshots" onClick={() => setIsOpen(false)}>
+          <Link href="/screenshots" onClick={() => setIsOpen(false)}>
             Screenshots
           </Link>
           <Link href="/changelog" onClick={() => setIsOpen(false)}>

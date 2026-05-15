@@ -25,7 +25,7 @@ function Footer() {
           <h4>Links</h4>
           <ul>
             <li>
-              <a href="#screenshots">Screenshots</a>
+              <a href="/screenshots">Screenshots</a>
             </li>
             <li>
               <a href="/changelog">Changelog</a>
