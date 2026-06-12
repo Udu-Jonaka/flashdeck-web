@@ -91,7 +91,7 @@ function Hero() {
           {/* Action buttons */}
           <div className="hero-actions">
             <a
-              href="https://expo.dev/artifacts/eas/74aGTGUL8dXzHVFoRhDr2T.apk"
+              href="https://www.dropbox.com/scl/fi/46mvv5z012rpqjfqco3ds/flashdeck.apk?rlkey=gcliqkmup4gi3fbylrwagjk7d&st=qfqj3eh2&dl=0"
               className="hero-download-btn"
             >
               <i
