@@ -54,7 +54,7 @@ function Navbar() {
         {/* CTA */}
         <div className="nav-cta-wrapper">
           <Link
-            href="https://www.dropbox.com/scl/fi/46mvv5z012rpqjfqco3ds/flashdeck.apk?rlkey=gcliqkmup4gi3fbylrwagjk7d&st=qfqj3eh2&dl=0"
+            href="https://github.com/Udu-Jonaka/flashdeck-web/releases/download/v1.0.0/flashdeck.apk"
             className="nav-cta"
           >
             <svg
