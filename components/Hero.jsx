@@ -131,7 +131,7 @@ function Hero() {
             >
               <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z" />
             </svg>
-            Safe &amp; Secure · Scanned by VirusTotal
+            Safe &amp; Secure · Built with Expo
           </div>
         </div>
 
